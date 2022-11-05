@@ -12,5 +12,8 @@ Até o momento, o [Curso em Vídeo](https://youtube.com/c/CursoemV%C3%ADdeo) foi
   - Esses curso é separado por 3 módulos (mundos), com um total de 23 aulas e 115 exercícios
   - [Exercícios](https://github.com/ErickGLopes/Estudos/tree/main/Exerc%C3%ADcios%20de%20Python)
 - Java Básico
+  - Total de 40 horas
+  - O curso de Java Básico pôde trazer um conhecimento sólido de criação de interfaces gráficas com Java Fx e Swing, além de esclarecer JDK e JRE. Utilizou Netbeans como IDE
+  - [Exercícios](https://github.com/ErickGLopes/Estudos/tree/main/Java%20B%C3%A1sico)
 - Java POO
 - Javascript 
