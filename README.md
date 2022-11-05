@@ -7,7 +7,7 @@ Atualmente curso Tecnólogo em Sistemas Embarcados na Fatec Jundiaí. Não mexe 
 
 Até o momento, o [Curso em Vídeo](https://youtube.com/c/CursoemV%C3%ADdeo) foi o canal pelo qual pude realizar todos os meus cursos de programação. Todos eles são gratuitos, porém entregam uma qualidade similar, superando muitos cursos pagos, ao meu ver! Desde já, agradeço a equipe do Guanabara e dos apoiadores que tornaram isso possível!
 ### Cursos completados
-#### Python
-#### Java Básico
-#### Java POO
-#### Javascript 
+#### - Python
+#### - Java Básico
+#### - Java POO
+#### - Javascript 
