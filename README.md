@@ -18,4 +18,8 @@ Até o momento, o [Curso em Vídeo](https://youtube.com/c/CursoemV%C3%ADdeo) foi
 - Java POO
   - Total de 40 horas
   - Abordou conceitos de Programação Orientada a Objetos como: classes, visibilidade, atributos e métodos, construtor, objetos, encapsulamento, agregação, herança e polimorfismo
+  - [Exercícios](https://github.com/ErickGLopes/Estudos/tree/main/Java%20POO)
 - Javascript 
+  - Total de 40 horas
+  - É um curso patrocidado pelo Google e é dividido em módulos de A até F. Assim como nos outros cursos, ele traz todo o conteúdo da forma mais descontraída e didática possível. Abordou condições, repetições, funções, variáveis compostas e DOM.
+  - [Exercícios](https://github.com/ErickGLopes/Estudos/tree/main/JavaScript)
