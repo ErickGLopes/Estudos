@@ -1,6 +1,7 @@
 # Estudos
 
 ## Faculdade
+<img> src="" alt="">
 Atualmente curso Tecnólogo em Sistemas Embarcados na Fatec Jundiaí. Não mexe com barco! 😁 O embarcado equivale a *embedded*, ou melhor, embutido; é um sistema embutido/encapsulado, abrange desde a placa controladora de uma máquina de lavar, a um microcontrolador de um foguete 🚀
 
 ## Curso em vídeo
