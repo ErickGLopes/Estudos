@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font: normal 20pt Arial;
+        }
+    </style>
+</head>
+<body>
+    
+    <script>
+        var a = Number(window.prompt('Valor do a'))
+        var b = Number(window.prompt('Valor do b'))
+        var c = Number(window.prompt('Valor do c'))
+        var delta = (b*b) - (4 * a * c)
+        window.alert(`O valor do delta é ${delta}`) 
+        var resp = window.confirm('Deseja calcular x1 e x2?')
+        if (resp == true) {
+            var x1 = Number((-b + Math.sqrt(delta)) / (2 * a)).toFixed(2).replace('.', ',')
+            var x2 = Number((-b - Math.sqrt(delta)) / (2 * a)).toFixed(2).replace('.', ',')
+            document.write(`Com o Δ = ${delta} temos:<br><br>x1 = ${x1}<br>x2 = ${x2}`)
+        }
+    </script>
+</body>
+</html>

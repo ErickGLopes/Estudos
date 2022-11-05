@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Contador</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        Vamos contar
+    </header>
+    <section>
+        <div>
+            <p>
+                <label for="txtinicio">Início: </label>
+                <input type="number" id="txtinicio">
+            </p>
+            <p>
+                <label for="txtfim">Fim: </label>
+                <input type="number" id="txtfim">
+
+            </p>
+            <p>
+                <label for="txtpasso">Passo: </label>
+                <input type="number" id="txtpasso">
+            </p>
+            <p>
+                <input type="button" value="Contar" id="txtbtn" onclick="contar()">
+            </p>
+        </div>
+        <div id="res">
+            Preparando a contagem...
+        </div>
+    </section>
+    <footer>
+        <p>&copy; CursoemVideo</p>
+    </footer>
+    <script src="cod.js"></script>
+</body>
+</html>

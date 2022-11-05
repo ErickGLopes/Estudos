@@ -1,0 +1,54 @@
+body {
+    font-size: 15pt;
+    font-family: Arial;
+    background: rgba(0, 101, 253, 0.616);
+}
+
+header {
+    color: white;
+    font-size: 20pt;
+    text-align: center;
+    font-weight: bold;
+}
+
+section {
+    padding: 30px;
+    background: white;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+    font-style: italic;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
+
+div#div_ano {
+    text-align: left;
+}
+
+div#div_sexo {
+    margin-top: 17px;
+}
+
+div#div_verificar {
+    margin-top: 17px;
+}
+
+div#div_res {
+    text-align: center;
+}
+
+input#btn_verificar {
+    width: 80px;
+    height: 30px;
+}
+
+
+
+

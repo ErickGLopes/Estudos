@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>É Estrangeiro?</title>
+    <style>
+        body {
+            font: normal 16pt Arial;
+        }
+        div#mainscr {
+            margin-left: 70px;
+            margin-top: 30px;
+        }
+        input#btnver {
+            margin-left: 20px;
+            width: 100px;
+            height: 30px;
+        }
+        div#lblRes {
+            margin-top: 30px;
+            margin-left: 70px;
+        }
+    </style>
+</head>
+<body>
+    <h1>&nlt;&nbsp;Transformar o ex008 em site&nbsp;&ngt;</h1>
+    <div id="mainscr">
+        Digite o país: <input type="text" id="txtpaís">
+    <input type="button" value="Verificar" onclick="verificar()">
+    </div> 
+    <div id="lblRes">
+        É estrangeiro? <p id="res"></p>
+    </div> 
+    <script>
+        function verificar() {
+            var txtp = document.getElementById('txtpaís')
+            var txt = String(txtp.value).toUpperCase()
+            var r = document.getElementById('res')
+            r.innerHTML = `Você mora no(a) ${txt}`
+            if (txt === 'BRASIL') {
+                r.innerHTML = '&RightArrow;&nbsp<strong>Não</strong>'
+            } else {
+                r.innerHTML = '&RightArrow;&nbsp<strong>Sim</strong>'
+            }
+        }
+    </script>
+</body>
+</html>

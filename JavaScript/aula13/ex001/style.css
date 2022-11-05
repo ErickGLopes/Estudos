@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    background: rgba(35, 123, 224, 0.781);
+}
+
+header {
+    text-align: center;
+    font-size: 25pt;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 10px;
+}
+
+section {
+    margin: auto;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    background: white;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.411);
+}
+
+footer {
+    color: white;
+    font-style: italic;
+    margin: auto;
+    text-align: center;
+}
+
+div#res {
+    font-size: 16pt;
+}
+
+
+
