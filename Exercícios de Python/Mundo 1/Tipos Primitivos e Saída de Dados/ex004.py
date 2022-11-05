@@ -1,0 +1,10 @@
+n = input('Digite algo:')
+cores = {'verde': '\033[32m', 'amarelo': '\033[33m', 'limpa': '\033[m'}
+print('{}Esse tipo primitivo é:{} {}'.format(cores['amarelo'], cores['limpa'], type(n)))
+print('{}Só tem espaços?{}{}'.format(cores['verde'], cores['limpa'], n.isspace()))
+print('{}Está em caixa baixa?{} {}'.format(cores['amarelo'], cores['limpa'], n.islower()))
+print('{}É numerico?{} {}'.format(cores['verde'], cores['limpa'], n.isnumeric()))
+print('{}É alfabetico?{} {}'.format(cores['amarelo'], cores['limpa'], n.isalpha()))
+print('{}Está em caixa alta?{} {}'.format(cores['verde'], cores['limpa'], n.isupper()))
+print('{}É um decimal?{} {}'.format(cores['amarelo'], cores['limpa'], n.isdecimal()))
+print('{}É alfanumerico?{} {}'.format(cores['verde'], cores['limpa'], n.isalnum()))
