@@ -23,5 +23,5 @@ Até o momento, o [Curso em Vídeo](https://youtube.com/c/CursoemV%C3%ADdeo) foi
   - [Exercícios](https://github.com/ErickGLopes/Estudos/tree/main/Java%20POO)
 - Javascript 
   - Total de 40 horas
-  - É um curso patrocidado pelo Google e é dividido em módulos de A até F. Assim como nos outros cursos, ele traz todo o conteúdo da forma mais descontraída e didática possível. Abordou condições, repetições, funções, variáveis compostas e DOM.
+  - É um curso patrocinado pelo Google e é dividido em módulos de A até F. Assim como nos outros cursos, ele traz todo o conteúdo da forma mais descontraída e didática possível. Abordou condições, repetições, funções, variáveis compostas e DOM.
   - [Exercícios](https://github.com/ErickGLopes/Estudos/tree/main/JavaScript)
