@@ -16,3 +16,6 @@ Instalação: [https://thonny.org/](https://thonny.org/)
 - 1 Botão
 - 1 LED verde
 - 1 LED vermelho
+- 1 LDR (Simulação de presença)
+- 2 Resistors de 100Ω
+- 3 Resistors de 10kΩ
