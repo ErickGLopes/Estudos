@@ -8,7 +8,7 @@ Instalação: [https://thonny.org/](https://thonny.org/)
 - 1 74HC86N (Portas XOR)
 - 1 74HC08 (Portas AND)
 - 1 74HC04 (Portas NOT)
-- Esp32 DEVKIT1
+- ESP32 DEVKIT V1
 - Jumpers
 - 2 Protoboards
 - Sensor DHT11
